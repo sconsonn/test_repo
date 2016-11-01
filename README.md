@@ -1,4 +1,4 @@
 #Hello
-*hi
-*hey
-*bye
+* hi
+* hey
+* bye
